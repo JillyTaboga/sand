@@ -41,3 +41,7 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+.firebaserc
+firebase.json
+.vscode/settings.json
+.firebase/hosting.YnVpbGRcd2Vi.cache
